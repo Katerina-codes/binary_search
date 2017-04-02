@@ -6,4 +6,6 @@ RSpec.describe BinarySearch do
      expect(BinarySearch.execute([], 1)).to eq(-1)
    end
 
+   it "
+
 end
